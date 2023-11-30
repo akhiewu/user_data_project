@@ -28,5 +28,5 @@
 
 # Project ERD Diagram
 
-<img src="https://github.com/akhiewu/NewApp_backend/blob/main/erd.png?raw=true" width =100% >
+<img src="https://github.com/akhiewu/user_data_project/blob/main/erd.png?raw=true" width =100% >
 
